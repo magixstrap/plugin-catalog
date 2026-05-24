@@ -1,0 +1,46 @@
+[
+  {
+    "id": "magixstrap.theme_packs",
+    "name": "Theme Packs",
+    "version": "1.0.0",
+    "author": "MagixStrap",
+    "description": "Install and manage MagixStrap UI theme packs.",
+    "installSpec": "magixstrap/theme-packs",
+    "homepage": "",
+    "preview": "",
+    "tags": ["ui", "themes"]
+  },
+  {
+    "id": "magixstrap.launch_rules",
+    "name": "Launch Rules",
+    "version": "1.0.0",
+    "author": "MagixStrap",
+    "description": "Apply rule-based FastFlags on launch.",
+    "installSpec": "magixstrap/launch-rules",
+    "homepage": "",
+    "preview": "",
+    "tags": ["launch", "fastflags"]
+  },
+  {
+    "id": "magixstrap.backup_restore",
+    "name": "Backup & Restore",
+    "version": "1.0.0",
+    "author": "MagixStrap",
+    "description": "Back up and restore settings, themes, and integrations.",
+    "installSpec": "https://github.com/magixstrap/backup-restore",
+    "homepage": "https://github.com/magixstrap/backup-restore",
+    "preview": "",
+    "tags": ["backup", "restore", "tools"]
+  },
+  {
+    "id": "magixstrap.doctor",
+    "name": "Doctor",
+    "version": "1.0.0",
+    "author": "MagixStrap",
+    "description": "Checks and diagnostics export for troubleshooting.",
+    "installSpec": "magixstrap/doctor",
+    "homepage": "",
+    "preview": "",
+    "tags": ["diagnostics"]
+  }
+]
